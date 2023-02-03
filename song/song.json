@@ -1,0 +1,20 @@
+{
+	"name": "Heartache",
+	"author": "LowRezCat",
+	"difficulty": "normal",
+
+	"music_volume": 1,
+	"hit_sound_volume": 0.2,
+
+	"speed": 4,
+
+	"song" : [
+		{"time": 60, "side": 1},
+		{"time": 70, "side": 2},
+		{"time": 80, "side": 3},
+		{"time": 90, "side": 4},
+		{"time": 100, "side": 3},
+		{"time": 110, "side": 2},
+		{"time": 120, "side": 1}
+	]
+}
